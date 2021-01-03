@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-More information on my [website](https://utkarsh299-tech.github.io/myportfolio/) also you can follow me on [Twitter](https://twitter.com/Utkarsh32664143)
+More information on my [website](https://utkarsh299-tech.github.io/myportfolio/) also you can follow me on [Twitter](https://twitter.com/Utkarsh32664143) and feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/utkarsh-singh-648216191/)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Python Django** based **Student Management System** project
 - 🌱 I’m currently learning **JavaScript and ReactJs**
 - 👯 I’m looking to collaborate on Open Source projects
-- 🤔 I’m looking for help with 
-- 💬 Ask me about: 
+- 💬 Ask me about: Git and GitHub
 - 📫 How to reach me: singhutkarsh2799@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: My favorite T.V Show is Breaking Bad. Although, I was obsessed with Lost. And my favorite TV show still running is Peaky Blinders.
