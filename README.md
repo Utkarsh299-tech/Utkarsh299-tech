@@ -8,5 +8,4 @@ More information on my [website](https://utkarsh299-tech.github.io/myportfolio/)
 - 👯 I’m looking to collaborate on Open Source projects
 - 💬 Ask me about: Git and GitHub
 - 📫 How to reach me: singhutkarsh2799@gmail.com
-- ⚡ Fun fact: My favorite T.V Show is Breaking Bad. Although, I was obsessed with Lost. And my favorite TV show still running is Peaky 
-                   Blinders.
+- ⚡ Fun fact: My favorite T.V Show is Breaking Bad. Although, I was obsessed with Lost. And my favorite TV show still running is Peaky Blinders.
