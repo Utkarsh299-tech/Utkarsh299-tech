@@ -1,3 +1,5 @@
+<img src="https://github.com/Utkarsh299-tech/Utkarsh299-tech/blob/main/animated-gifs.gif" alt="Animated gif">
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on **Python Django** based **Student Management System** project
