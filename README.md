@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 - 🔭 I’m currently working on **Python Django** based **Student Management System** project
 - 🌱 I’m currently learning **JavaScript and ReactJs**
 - 👯 I’m looking to collaborate on Open Source projects
@@ -9,10 +8,50 @@
 - ⚡ Fun fact: My favorite T.V Show is Breaking Bad. Although, I was obsessed with Lost. And my favorite TV show still running is Peaky Blinders.
 
 
-[![Utkarsh Singh's github stats](https://github-readme-stats.vercel.app/api?username=Utkarsh299-tech&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-![Utkarsh Singh's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh299-tech&show_icons=true&locale=en&layout=compact&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh299-tech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Utkarsh's github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=Utkarsh299-tech&show_icons=true&locale=en&layout=compact&theme=gruvbox)
+[![Utkarsh's github stats](https://github-readme-stats.vercel.app/api?username=Utkarsh299-tech&show_icons=true&theme=radical)](https://github.com/Utkarsh299-tech/github-readme-stats)
+![Utkarsh's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh299-tech&show_icons=true&locale=en&layout=compact&theme=gruvbox)
 
+## Tech Stack :computer:
+
+<br>
+<table>
+<tbody>
+ <tr>
+<td align="center" width="20%">
+<span><b><center>HTML</center></b></span> 
+<img height=60px src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>CSS</center></b></span> 
+<img height=60px src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Docker</center></b></span> 
+<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>Python</center></b></span> 
+<img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Git</center></b></span> 
+<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>JavaScript</center></b></span> 
+<img height=65px src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736401_1280.png"> 
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
