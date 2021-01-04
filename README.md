@@ -19,10 +19,10 @@ More information on my [website](https://utkarsh299-tech.github.io/myportfolio/)
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <a href="https://twitter.com/Utkarsh32664143" alt="Twitter"><img src="https://raw.githubusercontent.com/Utkarsh299-tech/Utkarsh299-tech//readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/utkarsh-singh-648216191/" alt="Linkedin"><img src="https://raw.githubusercontent.com/Utkarsh299-tech/Utkarsh299-tech//readme/linkedin-fill.svg"></a>
-    <a href="mailto:singhutkarsh2799@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/Utkarsh299-tech/Utkarsh299-tech//readme/mail-fill.svg"></a>
-    <a href="https://utkarsh299-tech.github.io/myportfolio/" alt="My site"><img src="https://raw.githubusercontent.com/Utkarsh299-tech/Utkarsh299-tech//readme/external-link-line.svg"></a>
+    <a href="https://twitter.com/Utkarsh32664143" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/utkarsh-singh-648216191/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/linkedin-fill.svg"></a>
+    <a href="mailto:singhutkarsh2799@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/mail-fill.svg"></a>
+    <a href="https://utkarsh299-tech.github.io/myportfolio/" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/external-link-line.svg"></a>
   </p>
 
   <p align="center">
