@@ -10,6 +10,7 @@
 
 
 [![Utkarsh Singh's github stats](https://github-readme-stats.vercel.app/api?username=Utkarsh299-tech&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+![Utkarsh Singh's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh299-tech&show_icons=true&locale=en&layout=compact&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh299-tech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
