@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-More information on my [website](https://utkarsh299-tech.github.io/myportfolio/) also you can follow me on [Twitter](https://twitter.com/Utkarsh32664143) and feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/utkarsh-singh-648216191/)
-
 
 - 🔭 I’m currently working on **Python Django** based **Student Management System** project
 - 🌱 I’m currently learning **JavaScript and ReactJs**
