@@ -9,6 +9,7 @@
 - 📫 How to reach me: singhutkarsh2799@gmail.com
 - ⚡ Fun fact: My favorite T.V Show is Breaking Bad. Although, I was obsessed with Lost. And my favorite TV show still running is Peaky Blinders.
 
+<img src="https://github.com/Utkarsh299-tech/Utkarsh299-tech/blob/main/animated_cat.gif" alt="Animated cat gif">
 
 ![Utkarsh's github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=Utkarsh299-tech&show_icons=true&locale=en&layout=compact&theme=gruvbox)
 [![Utkarsh's github stats](https://github-readme-stats.vercel.app/api?username=Utkarsh299-tech&show_icons=true&theme=radical)](https://github.com/Utkarsh299-tech/github-readme-stats)
