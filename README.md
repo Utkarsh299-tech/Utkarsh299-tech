@@ -7,6 +7,7 @@
 - 👯 I’m looking to collaborate on Open Source projects
 - 💬 Ask me about: Git and GitHub
 - 📫 How to reach me: singhutkarsh2799@gmail.com
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: My favorite T.V Show is Breaking Bad. Although, I was obsessed with Lost. And my favorite TV show still running is Peaky Blinders.
 
 <img src="https://github.com/Utkarsh299-tech/Utkarsh299-tech/blob/main/animated_cat.gif" alt="Animated cat gif">
