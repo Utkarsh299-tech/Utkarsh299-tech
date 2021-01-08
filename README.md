@@ -1,5 +1,5 @@
 <p align="center">
-<img height="430px" width="1000px" src="https://github.com/Utkarsh299-tech/Utkarsh299-tech/blob/main/animated-gifs.gif" alt="Animated gif">
+<img  width="1000px" src="https://github.com/Utkarsh299-tech/Utkarsh299-tech/blob/main/animated-gifs.gif" alt="Animated gif">
 </p>
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img height="430px" width="1000px" src="https://github.com/Utkarsh299-tech/Utkarsh299-tech/blob/main/animated_cat.gif" alt="Animated cat gif">
+  <img width="1000px" src="https://github.com/Utkarsh299-tech/Utkarsh299-tech/blob/main/animated_cat.gif" alt="Animated cat gif">
 </p>
 
 
