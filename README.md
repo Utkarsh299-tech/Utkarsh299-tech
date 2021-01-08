@@ -18,9 +18,9 @@
 </p>
 
 
-![Utkarsh's github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=Utkarsh299-tech&show_icons=true&locale=en&layout=compact&theme=gruvbox)
-[![Utkarsh's github stats](https://github-readme-stats.vercel.app/api?username=Utkarsh299-tech&show_icons=true&theme=radical)](https://github.com/Utkarsh299-tech/github-readme-stats)
-![Utkarsh's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh299-tech&show_icons=true&locale=en&layout=compact&theme=gruvbox)
+<img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Utkarsh299-tech&show_icons=true&locale=en&layout=compact&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api?username=Utkarsh299-tech&show_icons=true&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh299-tech&show_icons=true&locale=en&layout=compact&theme=gruvbox" />
 
 ## Tech Stack :computer:
 
