@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Utkarsh299-tech/Utkarsh299-tech/blob/main/animated-gifs.gif" alt="Animated gif">
+<img height="430px" width="1000px" src="https://github.com/Utkarsh299-tech/Utkarsh299-tech/blob/main/animated-gifs.gif" alt="Animated gif">
 </p>
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -14,8 +14,9 @@
 
 
 <p align="center">
-  <img width="760px" src="https://github.com/Utkarsh299-tech/Utkarsh299-tech/blob/main/animated_cat.gif" alt="Animated cat gif">
+  <img height="430px" width="1000px" src="https://github.com/Utkarsh299-tech/Utkarsh299-tech/blob/main/animated_cat.gif" alt="Animated cat gif">
 </p>
+
 
 ![Utkarsh's github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=Utkarsh299-tech&show_icons=true&locale=en&layout=compact&theme=gruvbox)
 [![Utkarsh's github stats](https://github-readme-stats.vercel.app/api?username=Utkarsh299-tech&show_icons=true&theme=radical)](https://github.com/Utkarsh299-tech/github-readme-stats)
@@ -29,12 +30,17 @@
  <tr>
 <td align="center" width="20%">
 <span><b><center>HTML</center></b></span> 
-<img height=60px src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png"> 
+<img height=60px src="https://cdn.worldvectorlogo.com/logos/html-5.svg"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>CSS</center></b></span> 
-<img height=60px src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"> 
+<img height=60px src="https://cdn.worldvectorlogo.com/logos/css-5.svg"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>JavaScript</center></b></span> 
+<img height=65px src="https://cdn.worldvectorlogo.com/logos/javascript-4.svg"> 
 </td>
 
 <td align="center" width="20%">
@@ -45,18 +51,23 @@
 
 <tr>
 <td align="center" width="20%">
+<span><b><center>React</center></b></span> 
+<img height=65px src="https://cdn.worldvectorlogo.com/logos/react.svg"> 
+</td>
+  
+<td align="center" width="20%">
 <span><b><center>Python</center></b></span> 
-<img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
+<img height=65px src="https://cdn.worldvectorlogo.com/logos/python-5.svg"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Git</center></b></span> 
-<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
+<img height=65px src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>JavaScript</center></b></span> 
-<img height=65px src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736401_1280.png"> 
+<span><b><center>Visual Studio</center></b></span> 
+<img height=65px src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"> 
 </td>
 </tr>
 </tbody>
