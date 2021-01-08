@@ -19,10 +19,8 @@
 
 
 <img width="105%" src="https://github-readme-stats.vercel.app/api?username=Utkarsh299-tech&show_icons=true&theme=radical&line_height=15" />
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh299-tech&show_icons=true&locale=en&layout=compact&theme=gruvbox&line_height=15" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Utkarsh299-tech&show_icons=true&locale=en&layout=compact&theme=gruvbox&line_height=20" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh299-tech&show_icons=true&locale=en&layout=compact&theme=gruvbox&line_height=15" />
+<img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Utkarsh299-tech&show_icons=true&locale=en&layout=compact&theme=gruvbox&line_height=15" />
 
 ## Tech Stack :computer:
 
