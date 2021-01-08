@@ -25,7 +25,7 @@
 ## Tech Stack :computer:
 
 <br>
-<table>
+<table align="center">
 <tbody>
  <tr>
 <td align="center" width="20%">
