@@ -4,10 +4,10 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🔭 I’m currently working on **Python Django** based **Student Management System** project
-- 🌱 I’m currently learning **JavaScript and ReactJs**
-- 👯 I’m looking to collaborate on Open Source projects
-- 💬 Ask me about: Git and GitHub
+- 🔭 I’m currently working on **Python Django** based **Student Management System** project.
+- 🌱 I’m currently learning **JavaScript and ReactJs**.
+- 👯 I’m looking to collaborate on Open Source projects.
+- 💬 Ask me about: Git and GitHub.
 - 📫 How to reach me: singhutkarsh2799@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: My favorite T.V Show is Breaking Bad. Although, I was obsessed with Lost. And my favorite TV show still running is Peaky Blinders.
