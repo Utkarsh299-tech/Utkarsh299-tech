@@ -87,8 +87,5 @@
     <a href="http://hits.dwyl.com/Utkarsh299-tech/Utkarsh299-tech">
       <img align="center" src="http://hits.dwyl.com/Utkarsh299-tech/Utkarsh299-tech.svg">
     </a>
-    <a href="https://visitor-badge.glitch.me/badge?page_id=${Utkarsh299-tech}.${visitor-badge}">
-      <img align="center" src="https://komarev.com/ghpvc/?username=Utkarsh299-tech" alt="visitor badge">
-    </a>
   </p>
 </p>
