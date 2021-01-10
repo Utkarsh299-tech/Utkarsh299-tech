@@ -84,8 +84,6 @@
   </p>
 
   <p align="center">
-    <a href="http://hits.dwyl.com/Utkarsh299-tech/Utkarsh299-tech">
-      <img align="center" src="http://hits.dwyl.com/Utkarsh299-tech/Utkarsh299-tech.svg">
-    </a>
+  <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" 
   </p>
 </p>
