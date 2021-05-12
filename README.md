@@ -18,6 +18,7 @@
 
 <p align="center">
   <img width="1000px" src="https://github.com/Utkarsh299-tech/Utkarsh299-tech/blob/main/animated_cat.gif" alt="Animated cat gif">
+  <img src="https://media1.tenor.com/images/907ca4314bc8af09f6c3ca5719d60f7e/tenor.gif" alt="Git Merge">
 </p>
 
 
