@@ -43,7 +43,7 @@
 
 <td align="center" width="20%">
 <span><b><center>JavaScript</center></b></span> 
-<img height=65px src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"> 
+<img height=60px src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"> 
 </td>
 
 <td align="center" width="20%">
@@ -67,6 +67,11 @@
 <td align="center" width="20%">
 <span><b><center>Visual Studio</center></b></span> 
 <img height=65px src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Linux</center></b></span> 
+<img height=65px src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg"> 
 </td>
 </tr>
 </tbody>
