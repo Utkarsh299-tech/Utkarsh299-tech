@@ -33,7 +33,7 @@
  <tr>
 <td align="center" width="20%">
 <span><b><center>HTML</center></b></span> 
-<img height=60px src="https://cdn.worldvectorlogo.com/logos/html-5.svg"> 
+<img height=60px src="https://cdn.worldvectorlogo.com/logos/html5.svg"> 
 </td>
 
 <td align="center" width="20%">
@@ -43,20 +43,16 @@
 
 <td align="center" width="20%">
 <span><b><center>JavaScript</center></b></span> 
-<img height=65px src="https://cdn.worldvectorlogo.com/logos/javascript-4.svg"> 
+<img height=65px src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Docker</center></b></span> 
-<img height=60px src="https://cdn.worldvectorlogo.com/logos/docker-3.svg"> 
+<span><b><center>Java</center></b></span> 
+<img height=60px src="https://cdn.worldvectorlogo.com/logos/java.svg"> 
 </td>
 </tr>
 
 <tr>
-<td align="center" width="20%">
-<span><b><center>React</center></b></span> 
-<img height=65px src="https://cdn.worldvectorlogo.com/logos/react.svg"> 
-</td>
   
 <td align="center" width="20%">
 <span><b><center>Python</center></b></span> 
