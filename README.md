@@ -77,7 +77,10 @@
 </tbody>
 </table>
 <hr>
+
+<a href="https://github.com/kanupriya-11/github-readme-activity-graph"><img alt="Utkarsh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Utkarsh299-tech&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <p align="center">
+  
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
